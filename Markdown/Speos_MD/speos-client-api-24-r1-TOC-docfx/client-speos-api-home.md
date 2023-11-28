@@ -4,7 +4,7 @@ author: Melanie Guyot
 author email: melanie.guyot@ansys.com
 summary: Speos client APIs documentation
 description: Speos client APIs documentation
-date: 2023-11-28
+date: 2023-11-27
 version: 2024 R1
 status: published
 access control: internal
@@ -34,6 +34,5 @@ This documentation provides a modular presentation of the **Speos client APIs** 
     - Arguments are always declared with parenthesis () and correspond to variables that must be provided to obtain the method's result.
 
 In Speos, arguments often correspond to axis system definitions.
-
 
 In addition to the **Speos client APIs** documentation, some common cross functional and more specific APIs are provided in the [Methods](https://ansyshelp.ansys.com/account/secured?returnurl=/Views/Secured/corp/v232/en/Optis_UG_ASP/Optis/UG_ASP/methods.html) section of the Speos User Guide (customer login request). 
