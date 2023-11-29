@@ -1,0 +1,13 @@
+{
+    "build": {
+      "globalMetadata": {
+        "title": "VR Sound User's Guide",
+        "summary": "Open Sound Control (OSC) is a protocol for communication among computers, sound synthesizers, and other multimedia devices that is optimized for modern networking technology and has been used in many application areas.",
+        "version": "2024 R1",
+        "product": "VR Sound",
+        "programming language": "Python",
+        "product collection": "Acoustics Simulation",
+        "physics": "Virtual Reality"
+      }
+    }
+ }
