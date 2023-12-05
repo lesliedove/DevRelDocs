@@ -1,5 +1,5 @@
 - name: Communication
-  href: Sound/UG_VRS/VRS_communication.md
+  href: VRS_communication.md
   items:
   - name: OSC Protocol
     href: Sound/UG_VRS/VRS_communication_osc.md
