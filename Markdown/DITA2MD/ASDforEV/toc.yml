@@ -1,5 +1,5 @@
 - name: "Sound: ASDforEV User's Guide"
-  href: Sound/UG_ASDforEV/index.md
+  href: index.md
   items:
   - name: Appendices
     href: Sound/UG_ASDforEV/appendix.md
