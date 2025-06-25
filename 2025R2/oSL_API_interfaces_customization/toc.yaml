@@ -52,3 +52,5 @@
         href: opti_api_python_qml_integration.md
       - name: Surrogates
         href: opti_api_python_qml_surrogates.md
+- name: Change Log
+  href: opti_api_change_log.md
